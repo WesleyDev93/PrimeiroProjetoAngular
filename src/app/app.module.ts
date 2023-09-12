@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MeuCabecalhoComponent } from './cabecalho/meu-cabecalho/meu-cabecalho.component';
 import { CorpoComponent } from './principal/corpo/corpo.component';
+import { RodapeComponent } from './principal/rodape/rodape.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MeuCabecalhoComponent,
-    CorpoComponent
+    CorpoComponent,
+    RodapeComponent
   ],
   imports: [
     BrowserModule,
