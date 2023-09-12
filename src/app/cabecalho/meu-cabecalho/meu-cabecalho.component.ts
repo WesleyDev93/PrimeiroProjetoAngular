@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class MeuCabecalhoComponent {
 
+
+  nome:string = 'Amorass';
+  color :string = 'purple';
+  constructor () {
+
+  }
 }
