@@ -1,0 +1,45 @@
+
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+
+img {
+  margin-left: 15px;
+  width: 450px;
+}
+
+.conteudo {
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.lista {
+
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  list-style: none;
+  text-align: center;
+}
+
+
+.item {
+
+  margin-top: 25px;
+}
+
+
+.author {
+
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  margin-top: 20px;
+  text-align: center;
+}
